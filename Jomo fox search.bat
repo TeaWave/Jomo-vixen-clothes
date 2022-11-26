@@ -1,20 +1,5 @@
-@echo off
-start chrome.exe https://marketplace.secondlife.com/p/CBB-100-No-Full/10527984
-start chrome.exe https://marketplace.secondlife.com/p/CBB-101-No-Full/10622074
-start chrome.exe https://marketplace.secondlife.com/p/CBB-102-No-Full/10649860
-start chrome.exe https://marketplace.secondlife.com/p/CBB-103-No-Full/10680845
-start chrome.exe https://marketplace.secondlife.com/p/CBB-104-No-Full/10712851
-start chrome.exe https://marketplace.secondlife.com/p/CBB-105-No-Full/10966701
-start chrome.exe https://marketplace.secondlife.com/p/CBB-106-No-Full/10985452
-start chrome.exe https://marketplace.secondlife.com/p/CBB-107-No-Ful/11007141
-start chrome.exe https://marketplace.secondlife.com/p/CBB-108-No-Full/11070175
-start chrome.exe https://marketplace.secondlife.com/p/CBB-109-No-Full/11099998
-start chrome.exe https://marketplace.secondlife.com/p/CBB-110-No-Full/11203836
-start chrome.exe https://marketplace.secondlife.com/p/CBB-111-No-Full/11241759
-start chrome.exe https://marketplace.secondlife.com/p/CBB-112-No-Full/11269364
-start chrome.exe https://marketplace.secondlife.com/p/CBB-113-No-Full/11372944
-start chrome.exe https://marketplace.secondlife.com/p/CBB-114-No-Full/11431292
-start chrome.exe https://marketplace.secondlife.com/p/CBB-115-No-Full/11533634
+@echo off 
+ 
 start chrome.exe https://marketplace.secondlife.com/p/CBB-116-No-Full/11582885
 start chrome.exe https://marketplace.secondlife.com/p/CBB-117-No-Full/11605743
 start chrome.exe https://marketplace.secondlife.com/p/CBB-118-No-Full/11732157
@@ -35,43 +20,10 @@ start chrome.exe https://marketplace.secondlife.com/p/CBB-132-No-Full/12564297
 start chrome.exe https://marketplace.secondlife.com/p/CBB-133-No-Full/12590865
 start chrome.exe https://marketplace.secondlife.com/p/CBB-135-No-Full/12701160
 start chrome.exe https://marketplace.secondlife.com/p/CBB-136-No-Full/12745013
-start chrome.exe https://marketplace.secondlife.com/p/CBB-137-No-Full/12836272
-start chrome.exe https://marketplace.secondlife.com/p/CBB-138-No-Full/12956658
-start chrome.exe https://marketplace.secondlife.com/p/CBB-139-No-Full/13013093
-start chrome.exe https://marketplace.secondlife.com/p/CBB-140-No-Full/13128077
-start chrome.exe https://marketplace.secondlife.com/p/CBB-141-No-Full/13165456
-start chrome.exe https://marketplace.secondlife.com/p/CBB-142-No-Full/13236581
-start chrome.exe https://marketplace.secondlife.com/p/CBB-143-No-Full/13381249
 
-start chrome.exe https://marketplace.secondlife.com/p/CBB-246-Full-Perm-A/17791236
-start chrome.exe https://marketplace.secondlife.com/p/CBB-247-Full-Perm-A/17798081
-start chrome.exe https://marketplace.secondlife.com/p/CBB-248-Full-Perm-A/17819717
 start chrome.exe https://marketplace.secondlife.com/p/CBB-249-Full-Perm-A/17852772
 start chrome.exe https://marketplace.secondlife.com/p/CBB-250-Full-Perm-A/17876758
-start chrome.exe https://marketplace.secondlife.com/p/CBB-258-EMO/18197808
-start chrome.exe https://marketplace.secondlife.com/p/CBB-91-No-Full/10238783
-start chrome.exe https://marketplace.secondlife.com/p/CBB-92-No-Full/10266672
-start chrome.exe https://marketplace.secondlife.com/p/CBB-93-No-Full/10294257
-start chrome.exe https://marketplace.secondlife.com/p/CBB-94-No-Full/10316082
-start chrome.exe https://marketplace.secondlife.com/p/CBB-95-No-Full/10343996
-start chrome.exe https://marketplace.secondlife.com/p/CBB-96-No-Full/10357913
 
-start chrome.exe https://marketplace.secondlife.com/p/CBB-97-No-Full/10395275
-start chrome.exe https://marketplace.secondlife.com/p/CBB-98-No-Full/10441685
-start chrome.exe https://marketplace.secondlife.com/p/CBB-99-No-Full/10503607
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-100/10527982
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-101/10622072
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-102/10649858
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-103/10680843
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-104/10712849
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-105/10956255
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-106/10985451
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-107/11007139
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-108/11070172
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-109/11099996
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-110/11203834
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-111/11241757
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-112/11269362
 start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-113/11372939
 start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-114/11431294
 start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-115/11533630
@@ -97,13 +49,3 @@ start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-133/12590862
 start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-134/12590871
 start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-135/12701158
 start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-136/12745010
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-90/10213883
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-91/10238781
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-92/10266669
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-93/10294255
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-94/10316080
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-95/10343994
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-96/10357908
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-97/10395273
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-98/10441683
-start chrome.exe https://marketplace.secondlife.com/p/Full-PermCBB-99/10503605
